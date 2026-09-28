@@ -1,7 +1,7 @@
 # Chatbot-EU-AI-Act-Compass
 A domain-specific RAG chatbot that helps professionals understand their obligations under the EU AI Act, grounded in the actual regulation text, the 2026 Digital Omnibus amendments, and official European Commission guidance. Built with LlamaIndex, Groq LLMs, HuggingFace embeddings, and a Gradio web interface.
 <p align="center">
-  <img src="logo.png" width="200" alt="AI Act Compass Logo">
+  <img src="AI Act Compass Logo.png" width="200" alt="AI Act Compass Logo">
 </p>
 
 <h1 align="center">AI Act Compass</h1>
@@ -51,7 +51,7 @@ The chatbot provides structured, actionable guidance:
 ## **Demo**
 
 <p align="center">
-  <img src="screenshot.png" width="800" alt="AI Act Compass Demo">
+  <img src="AI Act Compass Demo.png" width="800" alt="AI Act Compass Demo">
 </p>
 
 ## **A Note on Production Readiness**
